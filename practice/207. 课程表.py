@@ -26,4 +26,4 @@ class Solution:
 
         return numCourses == 0
 
-
+# 用ascci画出这个图，然后用拓扑排序的方法，看看能不能把所有的节点都遍历到
